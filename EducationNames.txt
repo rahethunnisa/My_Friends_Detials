@@ -1,0 +1,13 @@
+Education*Names
+MSC*Rafeequnnisa
+MSC*Rahmathunnisa
+BSC*Farhathunnisa
+BSC*Ayanahamed
+BSC*Ramya
+Inter*Divya
+Inter*Sneha
+SSC*Gayatri
+SSC*Rahetha
+SSC*Srimukhi
+
+
